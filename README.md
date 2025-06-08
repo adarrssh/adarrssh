@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm  Adarsh, a passionate developer with experience in Mern and AWS. <br>I love building JavaScript applications and exploring new technologies. <br> I have overall 2 years of experience as a develoepr<br>Let's connect and collaborate!<br>
+👋 Hi there! I'm  Adarsh, a passionate developer with experience in Mern and AWS. <br>I love building JavaScript applications and exploring new technologies. <br> I have overall 3 years of experience as a develoepr<br>Let's connect and collaborate!<br>
 
 
 ## 🌐 Socials:
